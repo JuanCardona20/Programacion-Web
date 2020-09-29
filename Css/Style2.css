@@ -1,0 +1,56 @@
+
+.Text
+{
+    font-size: 300%;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+.Cuadro5{
+    
+    display: block;
+    padding: 10px;
+    width: 20%;
+    height: 20%;
+    
+}
+
+.Cuadro5{
+   margin: 15px;
+   background-color: #7748A5;
+   margin-left: 110px;
+   box-shadow: #393030;
+   float: left;
+}
+
+.Segundo
+{
+    text-align: center;
+    color: gray;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.Tercero
+{
+    text-align: center;
+    font-size: 100%;
+    color: black;
+}
+
+.Cuarto
+{
+    text-align: center;
+    font-size: 100%;
+    color: white;
+
+}
+
+
+label
+{
+    color: white;
+    font-size: 100%;
+}
